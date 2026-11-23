@@ -1,7 +1,7 @@
 # 01 — Hybrid Identity Lab
 
 **Status:** Ongoing, since April 2025
-**Focus:** Identity & Access Management (IAM) — the area I want to work in
+**Focus:** Identity & Access Management (IAM)
 
 ## The problem
 
